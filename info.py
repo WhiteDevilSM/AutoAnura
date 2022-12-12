@@ -79,10 +79,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = ""
+DOWNLOAD_TEXT_URL = "https://t.me/SM_Updates_1/115"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Suscribe"
-CAPTION_BUTTON_URL = ""
+CAPTION_BUTTON_URL = "https://t.me/SM_Updates_1"
 
    # Auto Delete For Bot Sending Files #
